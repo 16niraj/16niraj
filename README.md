@@ -55,5 +55,5 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" width="450" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" width="450" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
 </p>
