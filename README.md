@@ -53,9 +53,9 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
