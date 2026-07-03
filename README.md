@@ -45,7 +45,7 @@
 **Tools & Hardware**  
 <p align="left">
   <img src="https://img.shields.io/badge/Xilinx_Vivado-E31937?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&langs_count=4" />
 </p>
 
 ---
@@ -53,6 +53,7 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" width="450" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" width="450" alt="Top Languages" />
 </p>
