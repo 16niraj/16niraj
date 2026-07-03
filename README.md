@@ -53,6 +53,6 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=16niraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16niraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
 </p>
